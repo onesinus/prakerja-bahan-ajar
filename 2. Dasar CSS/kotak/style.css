@@ -1,0 +1,23 @@
+#kotak {
+  border: 1px solid black;
+  height: 250px;
+  width: 250px;
+}
+
+#kotak2 {
+  border: 1px dotted black;
+  height: 50px;
+  width: 50px;
+}
+
+#kotak3 {
+  border: 1px dashed black;
+  height: 50px;
+  width: 50px;
+}
+
+#kotak4 {
+  border: 1px double black;
+  height: 50px;
+  width: 50px;
+}

@@ -1,0 +1,30 @@
+.kotak {
+  width: 100px;
+  height: 100px;
+  border: 1px solid purple;
+}
+
+#kotak_dalam {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.box {
+  width: 500px;
+  height: 500px;
+  border: 1px solid blue;
+}
+.small-box {
+  border: 1px solid green;
+  width: 50px;
+  height: 50px;
+}
+
+#kotak-1 {
+  padding-top: 100px;
+  padding-left: 100px;
+}
+#kotak-3 {
+  margin-top: 50px;
+  margin-left: 25px;
+}

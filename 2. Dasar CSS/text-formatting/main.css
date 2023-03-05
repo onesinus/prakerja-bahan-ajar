@@ -1,0 +1,23 @@
+.content-box {
+  border: 1px dashed gray;
+  padding: 5px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: blue;
+}
+
+p {
+  font-family: Arial;
+  text-indent: 100px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: orange;
+  font-weight: bold;
+}
