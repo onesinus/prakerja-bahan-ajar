@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: Arial;
+  background-color: lightgray;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background-color: white;
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+.menu {
+  background-color: black;
+  padding: 20px;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+}
+
+.menu a:hover {
+  background-color: gray;
+}
+
+.left-content {
+  float: left;
+  width: 25%;
+}
+
+.right-content {
+  float: left;
+  width: 75%;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+}
+
+.card img {
+  padding: 10px;
+}
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* Membuat element setelah .content tidak terkena pengaturan float */
+.content:after {
+  content: "";
+  display: table;
+  clear: both;
+ }
+
+.footer {
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
