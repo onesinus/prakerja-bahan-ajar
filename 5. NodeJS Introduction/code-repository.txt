@@ -1,0 +1,7 @@
+git clone <repository_url>
+git  branch
+git checkout -b new_branch
+
+git add .
+git commit -m “Melakukan perubahan pertama pada git”
+git push
