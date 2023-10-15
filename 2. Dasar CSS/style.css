@@ -1,0 +1,10 @@
+body {
+	background-color: lightgray;
+}
+
+.kotak {
+	border: 1px solid gray;
+	height: 50px;
+	width: 50px;
+	margin-top: 10px;
+}
