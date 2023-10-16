@@ -2,11 +2,16 @@ fieldset {
 	margin-top: 40px;
 }
 
-table {
+/*table {
 	border-collapse: collapse;
 }
 
 table, th, td {
 	border: 1px solid black;
 	padding: 15px;
+}*/
+
+.judul-mantul {
+	background-color: red;
+	color:  white;
 }
