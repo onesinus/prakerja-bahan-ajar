@@ -1,0 +1,27 @@
+.title {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+table {
+	border: 1px solid purple;
+}
+
+table th, table td {
+	border: 1px solid purple;
+}
+
+/*table tr:hover {
+	background-color: red;
+	cursor: pointer;
+}
+*/
+#blabla {
+	border-radius: 3px;
+}
+
+
+input[type="submit"] {
+	color: white;
+	background-color: blue;
+}
